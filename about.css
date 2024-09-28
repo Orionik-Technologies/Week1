@@ -1,0 +1,34 @@
+header{
+    background-color: gainsboro;
+    padding: 20px;
+    width: 100%;
+}
+
+.bodys{
+    width: 100%;
+}
+
+body {
+    overflow: auto; 
+}
+
+nav{
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    justify-content: space-around;  
+}
+
+a{
+    text-decoration: none; 
+    border-bottom: 2px solid black; 
+    font-size: 25px; 
+    color: black; 
+    margin-top: 20px;
+}
+
+footer{
+    background-color: gainsboro;
+    width: 100%;
+    padding: 0px;
+}
